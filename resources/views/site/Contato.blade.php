@@ -34,7 +34,7 @@
         <div class="text-white font-semibold">Contato</div>
         <div class="flex space-x-4">
             <a href="/" class="text-white hover:text-gray-300">Principal</a>
-            <a href="/SobreNos" class="text-white hover:text-gray-300">Sobre Nós</a>
+            <a href="/sobrenos" class="text-white hover:text-gray-300">Sobre Nós</a>
         </div>
     </div>
 </nav>
