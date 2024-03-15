@@ -1,4 +1,4 @@
-<h1> Contato </h1>
+<h1> SobreNos </h1>
 
 <ul>
     <li>

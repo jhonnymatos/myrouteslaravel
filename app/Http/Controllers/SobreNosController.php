@@ -9,7 +9,6 @@ class SobreNosController extends Controller
 {
     //MÉTODOS ACTIONS
     public function principal(){
-
-        echo 'sobre nos';
+        return view('site.sobrenos');
     }
 }
